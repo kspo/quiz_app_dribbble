@@ -10,10 +10,11 @@ This application is a clone of Apple's Stocks application, written in Flutter. T
 
 ## 📸 Original Content
 
-
 https://github.com/kspo/quiz_app_dribbble/assets/11508314/627ab65d-1ccc-40ee-a76e-283304b418be
 
+## 📸 Flutter Application
 
+https://github.com/kspo/quiz_app_dribbble/assets/11508314/f3a59ec3-6781-44f4-8be6-1686f195ff77
 
 ## App Animations
 
