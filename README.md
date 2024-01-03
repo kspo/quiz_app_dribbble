@@ -7,7 +7,7 @@ This application inspired by dribbble project, written in Flutter. The applicati
 [![Github: Kspo](https://img.shields.io/badge/Kspo-white?logo=Github&logoColor=000)][github]
 ![GitHub last commit](https://img.shields.io/github/last-commit/kspo/quiz_app_dribbble?label=Last+Commit)
 
-## 📸 Original Content
+## 📸 Original Content [![Dribbble: Project](https://img.shields.io/badge/Dribbble-white?logo=Dribbble)][dribbble]
 
 https://github.com/kspo/quiz_app_dribbble/assets/11508314/627ab65d-1ccc-40ee-a76e-283304b418be
 
@@ -35,6 +35,7 @@ https://github.com/kspo/quiz_app_dribbble/assets/11508314/f3a59ec3-6781-44f4-8be
 
 [linkedin]: https://www.linkedin.com/in/kaz%C4%B1m-selman-poyraz-0048b7143/
 [github]: https://github.com/kspo
+[dribbble]: https://dribbble.com/shots/5836646-Quiz-iOS-app-Animation
 
 [pull_down_button]: https://pub.dev/packages/pull_down_button#pulldownbuttontheme
 [marqueer]: https://pub.dev/packages/marqueer
