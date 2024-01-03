@@ -10,9 +10,7 @@ This application is a clone of Apple's Stocks application, written in Flutter. T
 
 ## 📸 Original Content
 
-<div class="video-wrap">
-    <video muted="" loop="" playsinline="" autoplay="" data-src="https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4" data-video-small="https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4" data-video-medium="https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4" data-video-large="https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4" src="https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4"></video>
-</div>
+https://cdn.dribbble.com/users/13307/videos/8408/ios_app_animation_slider_loading__game_button_selection_illustration.mp4
 
 ## App Animations
 
