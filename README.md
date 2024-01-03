@@ -5,8 +5,7 @@ This application is a clone of Apple's Stocks application, written in Flutter. T
 ![Static Badge](https://img.shields.io/badge/Author-KSPoyraz-blue)
 [![Linkedin: Kspoyraz](https://img.shields.io/badge/Kspoyraz-blue?logo=Linkedin&logoColor=fff)][linkedin]
 [![Github: Kspo](https://img.shields.io/badge/Kspo-white?logo=Github&logoColor=000)][github]
-![GitHub Licence](https://img.shields.io/github/license/kspo/apple_stocks_app_clone?label=Licence)
-![GitHub last commit](https://img.shields.io/github/last-commit/kspo/apple_stocks_app_clone?label=Last+Commit)
+![GitHub last commit](https://img.shields.io/github/last-commit/kspo/quiz_app_dribbble?label=Last+Commit)
 
 ## 📸 Original Content
 
@@ -16,25 +15,13 @@ https://github.com/kspo/quiz_app_dribbble/assets/11508314/627ab65d-1ccc-40ee-a76
 
 https://github.com/kspo/quiz_app_dribbble/assets/11508314/f3a59ec3-6781-44f4-8be6-1686f195ff77
 
-## App Animations
+## Features
 
-- Searchbar scroll and sliver.
-- There are 2 DraggableScrollableSheet. One is persistent, other is depends on clicking any market on the list.
-- After expanding DraggableScrollableSheet, Stock market prices marquee will be shown on AppBar.
-- BottomNavigationBar has yahoo!finance logo as Apple does.
-- Also BottomNavigationBar is persistent.
+- **Dynamic Gradients:** The background consists of multiple radial gradients with varying colors and stops. The gradients change dynamically based on the provided `animationValue`.
 
-## Development Information
+- **Geometric Shapes:** The painter draws circles and paths to create intricate geometric patterns. These shapes contribute to the overall visual richness of the background.
 
-- Currently, This app' purpose is to educate viewers. So some unnecessary design details and Easily achievable UI patterns have been overlooked in app.
-
-- If you have any question about this app, feel free to get in touch
-
-- This app uses these AWESOME dependencies;
-    - [marqueer]
-    - [pull_down_button]
-    - [chart_sparkline]
-
+- **Animation:** Utilizes Flutter's animation capabilities to create visually appealing transitions in the background. The `animationValue` controls the progression of the animations.
 
 ## Licensing
 
